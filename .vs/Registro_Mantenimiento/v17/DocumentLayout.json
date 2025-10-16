@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EDD7A0-8E28-4D48-BF21-66112E4218FA}|CapDatos\\CapDatos.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\capdatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EDD7A0-8E28-4D48-BF21-66112E4218FA}|CapDatos\\CapDatos.csproj|solutionrelative:capdatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EDD7A0-8E28-4D48-BF21-66112E4218FA}|CapDatos\\CapDatos.csproj|c:\\users\\gabri\\onedrive\\desktop\\soporte\\mantenimiento\\capdatos\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EDD7A0-8E28-4D48-BF21-66112E4218FA}|CapDatos\\CapDatos.csproj|solutionrelative:capdatos\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Mantenimiento||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\gestionarcatalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\gestionarcatalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\gestionarcatalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\gestionarcatalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\gestionarcatalogos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\gestionarcatalogos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\registromantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E17BE1-89C7-435F-8DAF-2ACE5DF221AB}|CapNegocio\\CapNegocio.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\capnegocio\\tramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E17BE1-89C7-435F-8DAF-2ACE5DF221AB}|CapNegocio\\CapNegocio.csproj|solutionrelative:capnegocio\\tramite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\mantenimiento\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6EF0AFF0-E82A-462B-A1C2-D5493E41D71E}|Mantenimiento\\Mantenimiento.csproj|solutionrelative:mantenimiento\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 258,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Mantenimiento\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Properties\\Resources.resx",
+              "RelativeToolTip": "Mantenimiento\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-25T03:01:56.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionarCatalogos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\GestionarCatalogos.Designer.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\GestionarCatalogos.Designer.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\GestionarCatalogos.Designer.cs",
+              "RelativeToolTip": "Mantenimiento\\GestionarCatalogos.Designer.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAwwJEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:01:30.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mantenimiento",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Mantenimiento.csproj",
+              "RelativeDocumentMoniker": "Mantenimiento\\Mantenimiento.csproj",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Mantenimiento.csproj*",
+              "RelativeToolTip": "Mantenimiento\\Mantenimiento.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-22T15:21:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionarCatalogos.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\GestionarCatalogos.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\GestionarCatalogos.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\GestionarCatalogos.cs",
+              "RelativeToolTip": "Mantenimiento\\GestionarCatalogos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:37:08.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionarCatalogos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\GestionarCatalogos.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\GestionarCatalogos.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\GestionarCatalogos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mantenimiento\\GestionarCatalogos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:37:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Modificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Modificar.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\Modificar.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Modificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mantenimiento\\Modificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:34:44.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Procedimiento.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\CapDatos\\Procedimiento.cs",
+              "RelativeDocumentMoniker": "CapDatos\\Procedimiento.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\CapDatos\\Procedimiento.cs",
+              "RelativeToolTip": "CapDatos\\Procedimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:12:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistroMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\RegistroMantenimiento.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\RegistroMantenimiento.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\RegistroMantenimiento.cs",
+              "RelativeToolTip": "Mantenimiento\\RegistroMantenimiento.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAwDIEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:35:26.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Program.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Program.cs",
+              "RelativeToolTip": "Mantenimiento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:39:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modificar.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Modificar.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\Modificar.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\Modificar.cs",
+              "RelativeToolTip": "Mantenimiento\\Modificar.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAkwIkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:34:54.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\AgregarProducto.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\AgregarProducto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\AgregarProducto.cs",
+              "RelativeToolTip": "Mantenimiento\\AgregarProducto.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAlwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:34:36.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\AgregarProducto.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\AgregarProducto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\AgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mantenimiento\\AgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:34:28.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistroMantenimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\RegistroMantenimiento.cs",
+              "RelativeDocumentMoniker": "Mantenimiento\\RegistroMantenimiento.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\Mantenimiento\\RegistroMantenimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mantenimiento\\RegistroMantenimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:35:03.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tramite.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\CapNegocio\\Tramite.cs",
+              "RelativeDocumentMoniker": "CapNegocio\\Tramite.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\CapNegocio\\Tramite.cs",
+              "RelativeToolTip": "CapNegocio\\Tramite.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:21:52.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\CapDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Soporte\\Mantenimiento\\CapDatos\\Conexion.cs",
+              "RelativeToolTip": "CapDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:09:26.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

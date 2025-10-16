@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Catalogos>
+  <Areas>
+    <Area>N/A</Area>
+    <Area>Administración</Area>
+    <Area>Contabilidad</Area>
+    <Area>Ventas</Area>
+    <Area>Soporte</Area>
+  </Areas>
+  <Equipos>
+    <Equipo>N/A</Equipo>
+    <Equipo>CPU</Equipo>
+    <Equipo>Monitor</Equipo>
+    <Equipo>Impresora</Equipo>
+    <Equipo>UPS</Equipo>
+    <Equipo>Scanner</Equipo>
+    <Equipo>Laptop</Equipo>
+  </Equipos>
+</Catalogos>

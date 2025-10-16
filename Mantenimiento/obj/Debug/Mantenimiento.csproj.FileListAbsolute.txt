@@ -1,0 +1,64 @@
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.RegistroMantenimiento.resources
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.exe.config
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.exe
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapNegocio.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\Guna.UI2.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\MaterialSkin.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapNegocio.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenim.665FE4C8.Up2Date
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.exe
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.exe.config
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.exe.config
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.exe
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\Mantenimiento.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapNegocio.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\Guna.UI2.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\MaterialSkin.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\CapNegocio.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.AgregarProducto.resources
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Modificar.resources
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.RegistroMantenimiento.resources
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenim.665FE4C8.Up2Date
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.exe
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.exe.config
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\MySql.Data.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\MySQLConnection.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\itextsharp.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\itextsharp.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\EPPlus.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Buffers.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Memory.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\EPPlus.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Buffers.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Memory.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\Mantenimiento\obj\Debug\Mantenimiento.GestionarCatalogos.resources

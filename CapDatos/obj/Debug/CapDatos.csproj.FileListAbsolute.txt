@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapDatos\bin\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapDatos\bin\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapDatos\bin\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapDatos\bin\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapDatos\obj\Debug\CapDatos.pdb

@@ -1,0 +1,18 @@
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\bin\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\bin\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.csproj.Up2Date
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\gabri\OneDrive\Desktop\Tarea 4\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\bin\Debug\CapNegocio.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\bin\Debug\CapNegocio.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\bin\Debug\CapDatos.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\bin\Debug\CapDatos.pdb
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.csproj.Up2Date
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.dll
+C:\Users\gabri\OneDrive\Desktop\SoporteOnamet\Registro_Mantenimiento\CapNegocio\obj\Debug\CapNegocio.pdb
